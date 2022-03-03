@@ -1,0 +1,26 @@
+
+/*Nav*/
+.navb-g{
+	background-color: #61498B;
+}
+
+/* End Nav*/
+
+/*Carousel*/
+.cc{
+	position: absolute;
+	top: 30%;
+	left: 0;
+	right: 0;
+}
+.imgwidth{
+	width: 100%;
+	height: 400px;
+}
+/*End Carousel*/
+
+/*Contact*/
+#contact{
+	background-color: #61498B;
+}
+/*End Contact*/
